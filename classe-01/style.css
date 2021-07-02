@@ -1,0 +1,162 @@
+body {
+    background-color: #b8adadad;
+
+}
+
+.blocoGeral {
+    margin: 160px 400px;
+}
+
+.container {
+    width: 600px;
+    height: 260px;
+    left: 403px;
+    top: 163px;
+    background-color: white;
+    display: flex;
+    align-items: flex-end;
+    
+}
+
+.tituloContainer {
+    color: #2AB3B1;
+    height: 50px;
+    font-family: 'Karla', sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    padding: 40px 270px 0px 40px;
+    background-color: white;
+    margin:0px ;
+    padding: 40px 0px 0px 40px; 
+    width: 560px;
+    
+}
+
+.subTituloContainer {
+    color:#C0DF33;
+    font-size: 18px;
+    line-height: 21px;
+    padding: 5px 100px 0px 40px  ;
+    background-color: white;
+    margin: 0px;
+    width: 560px;
+    padding-right: 0px;
+}
+
+p{
+    color: #9AA7BE;
+    font-family: 'Karla', sans-serif;
+    padding: 11px 0px 10px 40px;
+    margin: 0px 0px;
+    font-family: Karla;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    letter-spacing: -0.2px;
+    width: 560px;
+    background-color: white;
+}
+
+.subTituloCard {
+    color: white;
+    font-size: 18px;
+    padding-bottom: 0px;
+    letter-spacing: -0.225px;
+    padding-left: 40px;
+    font-family: Karla;
+    font-style: normal;
+    font-weight: bold;
+    margin-top: 25px;
+}
+
+.cards {   
+    width: 300px;
+    height: 240px;
+    
+
+}
+
+.container2 {
+    background-color: #2AB3B1;
+
+    padding: 0px
+    
+    
+}
+
+.preco {
+    height: 37px;
+    font-family: Karla;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 40px;
+    width: 200px;
+    margin-right: 0px;
+}
+
+span {
+    font-family: Karla;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    letter-spacing: -0.2px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+
+.pCard1 {
+    margin-top: 0px;
+    color: white;
+    font-family: Karla;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    letter-spacing: -0.2px;
+    margin-left: 0px;
+    padding-left: 40px;
+    opacity: 0.8;
+    margin-bottom: 20px;
+    margin-right: 0px;
+    width: 220px;
+    background-color: #2AB3B1;
+}
+
+a {
+    background-color: #C0DF33;
+    padding: 15px 82px 15px 78px;
+    margin-top: 20px;
+    color: white;
+    font-family: Karla;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.container3 {
+    background-color: #19aea9b4;   
+}
+.hCard2 {
+    color: white;
+    width: 220px;
+    margin: 0px;
+    padding: 12px 40px 40px 40px;
+    font-family: Karla;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 20px;
+    letter-spacing: 0.825px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.75;
+}
+
+
